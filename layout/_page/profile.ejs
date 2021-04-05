@@ -13,7 +13,11 @@
                             <%= key %>
                         <%}%>
                         <%if(theme.links_icon_enable){ %>
-                            <i class="iconfont icon-<%- key.toLowerCase() %>"></i>
+                            <% if (key.toLowerCase() == 'waveful'){ %>
+                                <i class="icomoon custom-icon-<%- key.toLowerCase() %>"></i>
+                            <% } else { %>
+                                <i class="iconfont icon-<%- key.toLowerCase() %>"></i>
+                            <% } %>
                         <%}%>
                     </a>
                 <% } %>

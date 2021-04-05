@@ -33,10 +33,10 @@ links:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
+  # ZhiHu: 
   # LinkedIn:
   # FaceBook:
-  # Twitter:
+  Twitter:
   # Skype:
   # CodeSandBox:
   # CodePen:
@@ -44,12 +44,13 @@ links:
   # Gitlab:
   # Dribbble:
   Instagram:
+  # WaveFul:
   Reddit:
   # YouTube:
   # QQ:
   # Weibo:
   # WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/derogab
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
