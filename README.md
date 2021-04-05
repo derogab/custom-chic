@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Siricee/hexo-theme-Chic" target="_blank">Chic Theme</a></h1>
+<h1 align="center"><a href="https://github.com/derogab/custom-chic" target="_blank">Chic Theme</a></h1>
 
 <p align="center">
 <img src="https://i.loli.net/2019/06/12/5d006bd289aa325037.png" alt="Chic theme">
@@ -60,7 +60,7 @@ An elegant, powerful, easy-to-read Hexo theme.
 
 ```bash
 cd your-blog/themes
-git clone https://github.com/Siricee/hexo-theme-Chic.git Chic
+git clone https://github.com/derogab/custom-chic.git Chic
 # Modify theme setting in _config.yml to Chic.
 ```
 
@@ -120,7 +120,7 @@ links:
 #  QQ:
 #  Weibo:
 #  WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/derogab
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
@@ -306,6 +306,6 @@ You can preview image-title and sample code in [Demo site](https://siricee.githu
 ![smartmockups_jwrd9y4r.png](https://i.loli.net/2019/06/12/5d00a085ec26284832.png)
 
 ## LICENSE
-Chic © [@Sirice](https://github.com/Siricee)
+Chic © [@Sirice](https://github.com/derogab)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
