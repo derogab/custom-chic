@@ -108,6 +108,7 @@ links:
 #  LinkedIn:
 #  FaceBook:
 #  Twitter:
+#  Mastodon:
 #  Skype:
 #  CodeSandBox:
 #  CodePen:
