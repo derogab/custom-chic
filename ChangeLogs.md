@@ -1,4 +1,13 @@
 Changelogs
+
+## 2025.4.12
+
+\[enhancement\]  
+
+1. optimized the style of light/dark switch button.
+2. fixed header being selected by mouse clicked twice times.
+3. support highlight code styles with light/dark theme.
+
 ## 2022.2.9
 
 \[enhancement\] optimize the layout of profile on the mobile terminal.
